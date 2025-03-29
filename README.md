@@ -2,7 +2,7 @@
 
 # Portfolio Overview  
 
-🚀 **Демо проекта:** [portfolio-overview.vercel.app](https://vercel.com/bitzxrdcoding-gmailcoms-projects/portfolio-overview)  
+🚀 **Демо проекта:** [portfolio-overview.vercel.app](https://portfolio-overview-tawny.vercel.app/)  
 
 ## Описание проекта  
 Portfolio Overview — это веб-приложение для управления инвестиционным портфелем...
