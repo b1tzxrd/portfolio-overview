@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika:wght@300..700&display=swap');
+
+
+.header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 40px;
+    background-color: #333;
+    color: #d1d0c5;
+}
+
+.title {
+    font-size: 1.7rem;
+    font-weight: 300;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.button {
+    transition: .2s;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 18px 24px;
+    background-color: #e2b714;
+    color: black;
+    border: none;
+    border-radius: 10px;
+    &:hover {
+        transition: .2s;
+        opacity: 0.7;
+    }
+}
